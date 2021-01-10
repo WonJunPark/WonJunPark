@@ -4,8 +4,6 @@
 Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
 and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@google.com
 
-<br />
-
 ## **My activities:** 
 
 🔭 Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
@@ -22,8 +20,6 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 - Sometimes I lecture on YouTube
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-park-610889199/)](https://www.linkedin.com/in/wonjun-park-610889199/) 
-
-<br />
 
 ## **Languages and Tools:**  
 
