@@ -5,7 +5,7 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 
 <br />
 
-##**My activities:** 
+## **My activities:** 
 
 🔭 Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
 - Development of Intelligent SW Technology for Medical Data Analysis (NIPA, Gil hospital)
@@ -21,7 +21,7 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 
 <br />
 
-##**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"></code>
 <code><img height="40" src="http://wiki.hash.kr/images/thumb/3/37/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C_%EB%A1%9C%EA%B3%A0.png/200px-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C_%EB%A1%9C%EA%B3%A0.png"></code>
