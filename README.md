@@ -21,7 +21,7 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 👯 Youtube. (https://www.youtube.com/channel/UChtu7_2fGmGUCIOdUh2QLVw)
 - Sometimes I lecture on YouTube
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:harimkang4422@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/harim.kang)](https://www.facebook.com/harim.kang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://davinci-ai.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-park-610889199/)](https://www.linkedin.com/in/wonjun-park-610889199/) 
 
 <br />
 
