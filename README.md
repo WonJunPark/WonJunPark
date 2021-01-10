@@ -15,7 +15,7 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"></code>
+<code><img height="40" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
