@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WonJunPark)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/WonJunPark?label=Follow)
 
 Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
-and feel free to contact me directly at dnjswns2280@naver.com
+and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@google.com
 
 1. Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
 - Development of Intelligent SW Technology for Medical Data Analysis (NIPA, Gil hospital)
