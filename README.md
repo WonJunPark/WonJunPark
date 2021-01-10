@@ -3,6 +3,8 @@
 Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
 and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@google.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonJunPark&layout=compact)
+
 1. Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
 - Development of Intelligent SW Technology for Medical Data Analysis (NIPA, Gil hospital)
 - Development of brain disease condition assessment and risk prediction model (ITRC)
@@ -13,6 +15,3 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 3. Daily study (https://blog.naver.com/dnjswns2280/222043654341)
 - I always organize when I learn new things.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonJunPark&layout=compact)
-
-[![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeg0)](https://solved.ac/hyeg0) 
