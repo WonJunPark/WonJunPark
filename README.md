@@ -1,6 +1,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WonJunPark)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/WonJunPark?label=Follow)
 
-:wave: Hello My name is Harim, I am a developer working at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
+Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
+and feel free to contact me directly at dnjswns2280@naver.com
+
+1. Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
+- Development of Intelligent SW Technology for Medical Data Analysis (NIPA, Gil hospital)
+- Development of brain disease condition assessment and risk prediction model (ITRC)
+- Development of Interactive Chatbot and Medication Recognition Technology for Clinical Test Support (Gachon Univ, AllLiveC)
+
+2. AI competition (https://www.kaggle.com/wonjunpark)
+
+3. Daily study (https://blog.naver.com/dnjswns2280/222043654341)
+- I always organize when I learn new things.
+
 
  My major is **mathematics:books:**, and I have been studying **computer science:computer:** since 2018. I have project experience using **Python(My most confident language)**, Java & Android, c++, and Matlab languages. I am very interested in **machine learning**. I am especially interested in computer vision.
 
