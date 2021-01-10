@@ -3,14 +3,14 @@
 Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
 and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@google.com
 
-1. Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
+🔭 Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
 - Development of Intelligent SW Technology for Medical Data Analysis (NIPA, Gil hospital)
 - Development of brain disease condition assessment and risk prediction model (ITRC)
 - Development of Interactive Chatbot and Medication Recognition Technology for Clinical Test Support (Gachon Univ, AllLiveC)
 
-2. AI competition (https://www.kaggle.com/wonjunpark)
+🌱 AI competition (https://www.kaggle.com/wonjunpark)
 
-3. Daily study (https://blog.naver.com/dnjswns2280/222043654341)
+💬 Daily study (https://blog.naver.com/dnjswns2280/222043654341)
 - I always organize when I learn new things.
 
 **Languages and Tools:**  
