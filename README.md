@@ -21,11 +21,11 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 
 <a href="https://github.com/WonjunPark/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=WonjunPark&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.WonjunPark.vercel.app/api/pin/?username=WonjunPark&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/WonjunPark/WonjunPark.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=WonjunPark&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.WonjunPark.vercel.app/api/pin/?username=WonjunPark&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
 
 
