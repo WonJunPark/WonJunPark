@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WonJunPark)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/WonJunPark?label=Follow)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WonJunPark)](https://hits.seeyoufarm.com) 
+[![Hits](https://img.shields.io/github/followers/WonJunPark?label=Follow)
 
 ## **Welcome! Who am I** 
 Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
