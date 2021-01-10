@@ -18,7 +18,10 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 💬 Daily study (https://blog.naver.com/dnjswns2280/222043654341)
 - I always organize when I learn new things.
 
-👯 Sometimes I lecture on YouTube. (https://www.youtube.com/channel/UChtu7_2fGmGUCIOdUh2QLVw)
+👯 Youtube. (https://www.youtube.com/channel/UChtu7_2fGmGUCIOdUh2QLVw)
+- Sometimes I lecture on YouTube
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-park-610889199/)]
 
 <br />
 
