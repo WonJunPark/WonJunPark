@@ -17,7 +17,7 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 - I always organize when I learn new things.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-park-610889199/)](https://www.linkedin.com/in/wonjun-park-610889199/) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UChtu7_2fGmGUCIOdUh2QLVw)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UChtu7_2fGmGUCIOdUh2QLVw)]
 
 ## **Languages and Tools:**  
 
