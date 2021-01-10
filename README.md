@@ -3,6 +3,8 @@
 Hello, I am a researcher who is interested in Medical artificial intelligence, Autonomous vehicles, Keggle.
 and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@google.com
 
+**My activities:** 
+
 🔭 Project experience (https://wjcompany.creatorlink.net/ACTIVITIES)
 - Development of Intelligent SW Technology for Medical Data Analysis (NIPA, Gil hospital)
 - Development of brain disease condition assessment and risk prediction model (ITRC)
@@ -12,6 +14,9 @@ and feel free to contact me directly at dnjswns2280@naver.com / dnjswns0324@goog
 
 💬 Daily study (https://blog.naver.com/dnjswns2280/222043654341)
 - I always organize when I learn new things.
+
+👯 Sometimes I lecture on YouTube. (https://www.youtube.com/channel/UChtu7_2fGmGUCIOdUh2QLVw)
+
 
 **Languages and Tools:**  
 
